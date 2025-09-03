@@ -28,7 +28,12 @@ I am a passionate developer who embraces the **Bushido** (武士道) spirit in c
 
 ### **Backend & Systems**
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### **Systems & Low-Level**
+![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -47,7 +52,7 @@ I am a passionate developer who embraces the **Bushido** (武士道) spirit in c
 |---------|-------------|------------|
 | 🎮 **[ChessMe](https://github.com/RYOMA-SyY/ChessMe)** | Strategic chess game implementation | HTML, CSS, JavaScript |
 | 🩸 **[Blood-Donation](https://github.com/RYOMA-SyY/Blood-Dontaion)** | Blood donation management system | TypeScript, React |
-| 🐍 **[TINY-PROJECTS](https://github.com/RYOMA-SyY/TINY-PROJECTS)** | Collection of Python mini-projects | Python |
+| 🐍 **[TINY-PROJECTS](https://github.com/RYOMA-SyY/TINY-PROJECTS)** | Collection of Python & Django mini-projects | Python, Django |
 | ⚡ **[GE-C-](https://github.com/RYOMA-SyY/GE-C-)** | C# game engine components | C# |
 | 🌐 **[Static-web-](https://github.com/RYOMA-SyY/Static-web-)** | Static website templates | HTML, CSS |
 
