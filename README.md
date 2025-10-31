@@ -87,37 +87,6 @@ Explore my portfolio: [riyoma.pages.dev](https://riyoma.pages.dev) — curated p
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=400&height=50&lines=Currently+Learning;Advanced+React+Patterns;Game+Development;System+Architecture" alt="Typing SVG" />
 </div>
 
----
-
-### This repository — Machine Learning project
-
-This repository (see the **MachineLearning** entry above) contains small exploratory machine learning projects and datasets organized for learning and experimentation. Key contents and how to use them:
-
-- Notebooks: Jupyter notebooks are under `JN/` (examples include `FirstMLProject.ipynb` and other notebooks in `JN/Magic04data/` and `JN/lnRegressionBikeData/`).
-- Data: CSV and dataset files (e.g., `SeoulBikeData.csv`, `magic04.data`) are included next to notebooks for reproducibility.
-- Virtual environment: A local virtual environment may exist at `JN/jnvenv/`. You can also create a fresh venv in the repo root:
-
-  ```powershell
-  python -m venv .venv
-  .\.venv\Scripts\Activate.ps1
-  pip install --upgrade pip
-  pip install jupyter pandas scikit-learn matplotlib seaborn
-  ```
-
-- Run notebooks: Start Jupyter and open the notebooks:
-
-  ```powershell
-  jupyter notebook
-  ```
-
-- Recommended workflow:
-  1. Create or activate a virtual environment.
-  2. Install dependencies (use `requirements.txt` if provided).
-  3. Open the notebook you want to run and restart kernels before execution.
-
-- Notes:
-  - Consider adding a `.gitignore` to exclude large datasets, `JN/jnvenv/`, and notebook checkpoints (`.ipynb_checkpoints/`).
-  - If you want me to add a `requirements.txt`, `.gitignore`, or a short README focusing on the ML content, tell me and I will add them and commit.
 
 
 ## 📊 GitHub Stats
