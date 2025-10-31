@@ -8,11 +8,21 @@
 
 ---
 
+<div align="center">
+  <!-- Prominent portfolio CTA added near the top -->
+  <a href="https://riyoma.pages.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%238B5CF6?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Visit Portfolio" />
+  </a>
+</div>
+
+
 ## ⚔️ About Me
 
 I am a passionate developer who embraces the **Bushido** (武士道) spirit in coding - discipline, honor, and continuous improvement. My journey in the digital realm is guided by the ancient wisdom of the samurai, where every line of code is a stroke of the sword.
 
 > *"In the midst of chaos, there is also opportunity."* - Sun Tzu
+
+Explore my portfolio: [riyoma.pages.dev](https://riyoma.pages.dev) — curated projects, case studies, and demos showcasing my recent work.
 
 ---
 
