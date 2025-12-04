@@ -80,12 +80,12 @@ Explore my portfolio: [riyoma.pages.dev](https://riyoma.pages.dev) — curated p
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🎮 **[ChessMe](https://github.com/RYOMA-SyY/ChessMe)** | Strategic chess game implementation | HTML, CSS, JavaScript |
-| 🩸 **[Blood-Donation](https://github.com/RYOMA-SyY/Blood-Dontaion)** | Blood donation management system | TypeScript, React |
-| 🐍 **[TINY-PROJECTS](https://github.com/RYOMA-SyY/TINY-PROJECTS)** | Collection of Python & Django mini-projects | Python, Django |
+| 🐍 **[MultipleDevLanguageProjects](https://github.com/RYOMA-SyY/MultipleDevLanguageProjects)** | Multi-language development projects and testing | Python |
+| 🎓 **[EDUI](https://github.com/RYOMA-SyY/EDUI)** | Educational Web Design Showcase | TypeScript |
+| 🔧 **[SELF](https://github.com/RYOMA-SyY/SELF)** | Self-improvement and development project | JavaScript |
 | 🧠 **[MachineLearning](https://github.com/RYOMA-SyY/MachineLearning)** | Jupyter notebooks and datasets exploring ML tasks (regression, classification, data prep). Notebooks and data live under `JN/` in this repo. | Python, pandas, scikit-learn, matplotlib |
-| ⚡ **[GE-C-](https://github.com/RYOMA-SyY/GE-C-)** | C# game engine components | C# |
-| 🌐 **[Static-web-](https://github.com/RYOMA-SyY/Static-web-)** | Static website templates | HTML, CSS |
+| 🏪 **[HardwareStore-FULLSTACK-WEB](https://github.com/RYOMA-SyY/HardwareStore-FULLSTACK-WEB)** | Full-stack hardware store web application | JavaScript |
+| 🎮 **[ChessMe](https://github.com/RYOMA-SyY/ChessMe)** | Strategic chess game implementation | HTML, CSS, JavaScript |
 
 </div>
 
