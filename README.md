@@ -42,8 +42,10 @@ Explore my portfolio: [riyoma.pages.dev](https://riyoma.pages.dev) — curated p
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-%23FF6C2C.svg?style=for-the-badge)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### **Systems & Low-Level**
 ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -53,12 +55,20 @@ Explore my portfolio: [riyoma.pages.dev](https://riyoma.pages.dev) — curated p
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![N8N](https://img.shields.io/badge/N8N-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
  ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
+### **AI & Machine Learning**
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+
  ### **Beginner In**
  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+ ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
 </div>
 
@@ -134,3 +144,4 @@ Explore my portfolio: [riyoma.pages.dev](https://riyoma.pages.dev) — curated p
   *"Every commit is a step on the path of the warrior"* ⚔️
   
 </div>
+
