@@ -36,6 +36,7 @@ Explore my portfolio: [riyoma.pages.dev](https://riyoma.pages.dev) — curated p
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
 ### **Backend & Systems**
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -46,6 +47,8 @@ Explore my portfolio: [riyoma.pages.dev](https://riyoma.pages.dev) — curated p
 ![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-%23FF6C2C.svg?style=for-the-badge)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)
 
 ### **Systems & Low-Level**
 ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -59,6 +62,7 @@ Explore my portfolio: [riyoma.pages.dev](https://riyoma.pages.dev) — curated p
 ![N8N](https://img.shields.io/badge/N8N-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
  ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+ ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### **AI & Machine Learning**
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -66,9 +70,6 @@ Explore my portfolio: [riyoma.pages.dev](https://riyoma.pages.dev) — curated p
 ![LLM](https://img.shields.io/badge/LLM-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
- ### **Beginner In**
- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
- ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
 </div>
 
@@ -86,6 +87,7 @@ Explore my portfolio: [riyoma.pages.dev](https://riyoma.pages.dev) — curated p
 | 🧠 **[MachineLearning](https://github.com/RYOMA-SyY/MachineLearning)** | Jupyter notebooks and datasets exploring ML tasks (regression, classification, data prep). Notebooks and data live under `JN/` in this repo. | Python, pandas, scikit-learn, matplotlib |
 | 🏪 **[HardwareStore-FULLSTACK-WEB](https://github.com/RYOMA-SyY/HardwareStore-FULLSTACK-WEB)** | Full-stack hardware store web application | JavaScript |
 | 🎮 **[ChessMe](https://github.com/RYOMA-SyY/ChessMe)** | Strategic chess game implementation | HTML, CSS, JavaScript |
+| 💬 **[CHITCHAT-WebSocket-JEE](https://github.com/RYOMA-SyY/CHITCHAT-WebSocket-JEE)** | Real-time chat application using Jakarta EE and WebSockets | Java, JSP, WebSockets |
 
 </div>
 
