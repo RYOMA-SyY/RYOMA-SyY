@@ -3,7 +3,7 @@
 > *"The way of the samurai is found in death."* - Hagakure
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&height=100&lines=WELCOME+to+coding+world;%F0%9F%8E%89+Samurai+Developer;%F0%9F%8E%89+Code+Warrior" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&height=100&lines=WELCOME+to+coding+world;Samurai+Developer;Code+Warrior" alt="Typing SVG" />
 </div>
 
 ---
