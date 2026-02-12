@@ -96,15 +96,14 @@ Explore my portfolio: [riyoma.pages.dev](https://riyoma.pages.dev) — curated p
 ##  Current Focus
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=400&height=50&lines=Currently+Learning;Advanced+React+Patterns;Game+Development;System+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=400&height=50&lines=Currently+Learning;Rust;Game+Development;System+Design;Assembly" alt="Typing SVG" />
 </div>
 
 
 
 ##  GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RYOMA-SyY&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" alt="GitHub Stats" />
+
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RYOMA-SyY&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6" alt="GitHub Streak" />
 </div>
