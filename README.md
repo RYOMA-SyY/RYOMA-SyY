@@ -16,7 +16,7 @@
 </div>
 
 
-## ⚔️ About Me
+##  About Me
 
 I am a passionate developer who embraces the **Bushido** (武士道) spirit in coding - discipline, honor, and continuous improvement. My journey in the digital realm is guided by the ancient wisdom of the samurai, where every line of code is a stroke of the sword.
 
@@ -26,7 +26,7 @@ Explore my portfolio: [riyoma.pages.dev](https://riyoma.pages.dev) — curated p
 
 ---
 
-## 🛡️ My Arsenal (Programming Languages)
+##  My Arsenal (Programming Languages)
 
 <div align="center">
 
@@ -75,25 +75,25 @@ Explore my portfolio: [riyoma.pages.dev](https://riyoma.pages.dev) — curated p
 
 ---
 
-## 🏯 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🐍 **[MultipleDevLanguageProjects](https://github.com/RYOMA-SyY/MultipleDevLanguageProjects)** | Multi-language development projects and testing | Python |
-| 🎓 **[EDUI](https://github.com/RYOMA-SyY/EDUI)** | Educational Web Design Showcase | TypeScript |
-| 🔧 **[SELF](https://github.com/RYOMA-SyY/SELF)** | Self-improvement and development project | JavaScript |
-| 🧠 **[MachineLearning](https://github.com/RYOMA-SyY/MachineLearning)** | Jupyter notebooks and datasets exploring ML tasks (regression, classification, data prep). Notebooks and data live under `JN/` in this repo. | Python, pandas, scikit-learn, matplotlib |
-| 🏪 **[HardwareStore-FULLSTACK-WEB](https://github.com/RYOMA-SyY/HardwareStore-FULLSTACK-WEB)** | Full-stack hardware store web application | JavaScript |
-| 🎮 **[ChessMe](https://github.com/RYOMA-SyY/ChessMe)** | Strategic chess game implementation | HTML, CSS, JavaScript |
-| 💬 **[CHITCHAT-WebSocket-JEE](https://github.com/RYOMA-SyY/CHITCHAT-WebSocket-JEE)** | Real-time chat application using Jakarta EE and WebSockets | Java, JSP, WebSockets |
+|  **[MultipleDevLanguageProjects](https://github.com/RYOMA-SyY/MultipleDevLanguageProjects)** | Multi-language development projects and testing | Python |
+|  **[EDUI](https://github.com/RYOMA-SyY/EDUI)** | Educational Web Design Showcase | TypeScript |
+|  **[SELF](https://github.com/RYOMA-SyY/SELF)** | Self-improvement and development project | JavaScript |
+|  **[MachineLearning](https://github.com/RYOMA-SyY/MachineLearning)** | Jupyter notebooks and datasets exploring ML tasks (regression, classification, data prep). Notebooks and data live under `JN/` in this repo. | Python, pandas, scikit-learn, matplotlib |
+|  **[HardwareStore-FULLSTACK-WEB](https://github.com/RYOMA-SyY/HardwareStore-FULLSTACK-WEB)** | Full-stack hardware store web application | JavaScript |
+|  **[ChessMe](https://github.com/RYOMA-SyY/ChessMe)** | Strategic chess game implementation | HTML, CSS, JavaScript |
+|  **[CHITCHAT-WebSocket-JEE](https://github.com/RYOMA-SyY/CHITCHAT-WebSocket-JEE)** | Real-time chat application using Jakarta EE and WebSockets | Java, JSP, WebSockets |
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=400&height=50&lines=Currently+Learning;Advanced+React+Patterns;Game+Development;System+Architecture" alt="Typing SVG" />
@@ -133,7 +133,7 @@ Explore my portfolio: [riyoma.pages.dev](https://riyoma.pages.dev) — curated p
 
 ---
 
-## 🎭 Samurai Quote of the Day
+##  Samurai Quote of the Day
 
 > *"The ultimate aim of martial arts is not having to use them."* - Miyamoto Musashi
 
