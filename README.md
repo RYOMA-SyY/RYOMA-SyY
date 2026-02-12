@@ -101,7 +101,7 @@ Explore my portfolio: [riyoma.pages.dev](https://riyoma.pages.dev) — curated p
 
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RYOMA-SyY&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" alt="GitHub Stats" />
@@ -111,7 +111,7 @@ Explore my portfolio: [riyoma.pages.dev](https://riyoma.pages.dev) — curated p
 
 ---
 
-## 🗡️ Samurai Code Principles
+##  Samurai Code Principles
 
 - **Honor** - Write clean, maintainable code
 - **Discipline** - Follow best practices and standards
@@ -121,7 +121,7 @@ Explore my portfolio: [riyoma.pages.dev](https://riyoma.pages.dev) — curated p
 
 ---
 
-## 🌟 Let's Connect
+##  Let's Connect
 
 <div align="center">
   
