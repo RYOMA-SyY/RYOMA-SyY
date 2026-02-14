@@ -22,7 +22,7 @@ I am a passionate developer who embraces the **Bushido** (武士道) spirit in c
 
 > *"In the midst of chaos, there is also opportunity."* - Sun Tzu
 
-Explore my portfolio: [riyoma.pages.dev](https://riyoma.pages.dev) — curated projects, case studies, and demos showcasing my recent work.
+Explore my portfolio: [riyoma.site](https://riyoma.site/) — curated projects, case studies, and demos showcasing my recent work.
 
 ---
 
