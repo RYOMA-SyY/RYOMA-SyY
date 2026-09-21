@@ -20,7 +20,7 @@
 
 I am a passionate developer who embraces the **Bushido** (武士道) spirit in coding — discipline, honor, and continuous improvement.
 
-My journey spans **web development, software engineering, AI/ML, mobile development, game development, and systems programming**.
+My journey spans **web development, software engineering, AI/ML, mobile development, game development, reverse engineering, game modding, and systems programming**.
 
 I enjoy building complete applications, experimenting with emerging technologies, and continuously expanding my technical arsenal.
 
@@ -55,6 +55,12 @@ I enjoy building complete applications, experimenting with emerging technologies
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-%23010101.svg?style=for-the-badge\&logo=socket.io\&logoColor=white)
 
+### **Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+
 ### **Mobile Development**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
@@ -65,6 +71,12 @@ I enjoy building complete applications, experimenting with emerging technologies
 
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge\&logo=godotengine\&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge\&logo=godotengine\&logoColor=white)
+
+### **Reverse Engineering & Modding**
+
+![Ghidra](https://img.shields.io/badge/Ghidra-333333?style=for-the-badge\&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft-3C8527?style=for-the-badge\&logoColor=white)
+![Black Ops 2 Modding](https://img.shields.io/badge/Black_Ops_2_Modding-E25822?style=for-the-badge\&logoColor=white)
 
 ### **AI & Machine Learning**
 
@@ -100,14 +112,13 @@ I enjoy building complete applications, experimenting with emerging technologies
 
 <div align="center">
 
-| Project                                                                                              | Description                                                        | Tech Stack                      |
-| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------- |
-| 🏫 **[SchoolOS](https://github.com/RYOMA-SyY/SchoolOS)**                                             | Modern school management platform and educational software project | TypeScript                      |
-| 🤖 **[WallFit-RAG](https://github.com/RYOMA-SyY/WallFit-RAG)**                                       | RAG and AI experimentation using retrieval-based knowledge systems | Python, Jupyter, RAG            |
-| 💼 **[SmartEx-PFE](https://github.com/RYOMA-SyY/SmartEx-PFE)**                                       | Full-scale PFE software project                                    | TypeScript                      |
-| 🛒 **[Lumiere-Ecom-React-ReactNative](https://github.com/RYOMA-SyY/Lumiere-Ecom-React-ReactNative)** | E-commerce application exploring web and mobile development        | TypeScript, React, React Native |
-| 💬 **[CHITCHAT-WebSocket-JEE](https://github.com/RYOMA-SyY/CHITCHAT-WebSocket-JEE)**                 | Real-time chat application using Jakarta EE and WebSockets         | Java, JSP, WebSockets           |
-| 🎮 **[AHURA](https://github.com/RYOMA-SyY/AHURA)**                                                   | Game development project built with Godot                          | Godot, GDScript                 |
+| Project                                                                              | Description                                                                                                             | Tech Stack                          |
+| ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| 💼 **[SmartEx-PFE](https://github.com/RYOMA-SyY/SmartEx-PFE)**                       | Smart examination platform with AI-powered exam generation, PDF with QR codes, and student submissions                  | React, TypeScript, Django, Ollama AI |
+| 🤖 **[WallFit-RAG](https://github.com/RYOMA-SyY/WallFit-RAG)**                       | Multilingual fitness AI coach RAG system with hybrid retrieval, rerankers, and prompt-injection defenses                | Python, ChromaDB, RAG               |
+| 🎮 **[AHURA](https://github.com/RYOMA-SyY/AHURA)**                                   | Hollow Knight-inspired Godot 4 2D action game with a custom 7-state machine player controller                           | Godot, GDScript                     |
+| 🏫 **[SchoolOS](https://github.com/RYOMA-SyY/SchoolOS)**                             | Modern school management platform and educational software project                                                     | TypeScript                          |
+| 💬 **[CHITCHAT-WebSocket-JEE](https://github.com/RYOMA-SyY/CHITCHAT-WebSocket-JEE)** | Real-time chat application using Jakarta EE and WebSockets                                                             | Java, JSP, WebSockets               |
 
 </div>
 
@@ -115,6 +126,7 @@ I enjoy building complete applications, experimenting with emerging technologies
 
 ## 🔬 Other Projects
 
+* 🛒 **[Lumiere-Ecom-React-ReactNative](https://github.com/RYOMA-SyY/Lumiere-Ecom-React-ReactNative)** — Premium e-commerce app with multi-language (EN/FR/AR) and RTL layouts
 * 🛍️ **[gymwear](https://github.com/RYOMA-SyY/gymwear)** — E-commerce web project
 * 🧠 **[MachineLearning](https://github.com/RYOMA-SyY/MachineLearning)** — Machine learning notebooks and experiments
 * 🖥️ **[HardwareStore-FULLSTACK-WEB](https://github.com/RYOMA-SyY/HardwareStore-FULLSTACK-WEB)** — Full-stack hardware store application
@@ -130,7 +142,7 @@ I enjoy building complete applications, experimenting with emerging technologies
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&height=50&lines=Currently+Learning;AI+%26+RAG;Game+Development;Godot+%26+GDScript;Flutter+%26+Mobile+Development;System+Design;Rust;Assembly" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&height=50&lines=Currently+Learning;AI+%26+RAG;Game+Development;Godot+%26+GDScript;Flutter+%26+Mobile+Development;System+Design;Rust;Assembly;Reverse+Engineering;Ghidra+%26+Assembly;Game+Modding" alt="Typing SVG" />
 
 </div>
 
